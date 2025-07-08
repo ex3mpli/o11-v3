@@ -11,7 +11,7 @@
 2. **Upload Files**  
    Upload all the provided files to a directory on your server, for example:
    ```
-   /home/o11
+   /home/o11-v3
    ```
    _Keep all files inside this folder._
 
