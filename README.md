@@ -57,4 +57,4 @@
 
 ---
 
-**Special thanks to [DRMLab.io](https://drmlab.io)**
+**Special thanks to ### DRMLab.io
